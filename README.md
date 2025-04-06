@@ -6,3 +6,5 @@ Dentro da infraestrutura temos os modelos on-premise, cloud, ou híbrida com div
 Também aprendi os conceitos básicos sobre o Microsoft Azure, os principais serviços e as principas soluções. 
 Aprendi também a diferenciar as despesas de capitais e as despesas operacionais (CapEx e OpEx).
 Aprendi também sobre os benefícios da núvem, alta disponibilidade, escalabilidade, elasticidade, confiabilidade, previsibilidade, segurança, governança e gerenciabilidade.
+Aprendi também sobre o SLA que é o acordo do nível de serviço (tempo de inatividade aceito)
+Aprendi que quando for criar uma máquina virtual na Azure podemos observar que a Azure oferece diversas opções de gerenciamento de disponibilidade e resiliencia com base nas zonas de disponibilidades de máquinas virtuais para um melhor dimensionamento da minha solicitação e também as contas de armazenamento com suas redundancias local, geográfica e de zonas.
