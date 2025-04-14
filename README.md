@@ -8,3 +8,6 @@ Aprendi também a diferenciar as despesas de capitais e as despesas operacionais
 Aprendi também sobre os benefícios da núvem, alta disponibilidade, escalabilidade, elasticidade, confiabilidade, previsibilidade, segurança, governança e gerenciabilidade.
 Aprendi também sobre o SLA que é o acordo do nível de serviço (tempo de inatividade aceito)
 Aprendi que quando for criar uma máquina virtual na Azure podemos observar que a Azure oferece diversas opções de gerenciamento de disponibilidade e resiliencia com base nas zonas de disponibilidades de máquinas virtuais para um melhor dimensionamento da minha solicitação e também as contas de armazenamento com suas redundancias local, geográfica e de zonas.
+CONTINUANDO....
+Nesse módulo agora aprendi sobre os tipos de responsabilidades IaaS PaaS e SaaS. 
+Também aprendi como abrir uma instância de banco de dados SQL dentro da Azure
